@@ -1,3 +1,3 @@
 # piyushpalod.github.io
 This is just a portofolio to show resume
- click piyushpalod.github.io to check profile
+ click <a href="piyushpalod.github.io"> Profile Link <a> to check profile
